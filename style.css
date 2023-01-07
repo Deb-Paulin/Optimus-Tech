@@ -2,6 +2,9 @@
 @import url("styles/cabecalho.css");
 @import url("styles/metricas.css");
 @import url("styles/foto.css");
+@import url("styles/vagas.css");
+@import url("styles/depoimentos.css");
+@import url("styles/footer.css");
 
 :root {
     --cinza-principal: #667085;
