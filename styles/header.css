@@ -45,5 +45,9 @@
 }
 
 .container__botao {
-    padding-right: 7em;
+    border-radius: 8px;
+    background-color: var(--vermelho);
+    color: var(--branco);
+    padding: 8px;
+    margin-right: 6rem;
 }
