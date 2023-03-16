@@ -1,0 +1,39 @@
+.vagas__container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+ }
+ 
+ .vagas {
+    display: flexbox;
+    width: 700px;
+    border-radius: 10px;
+    border: solid  1px #EAECF0;
+    padding: 12px 12px 0 ;
+    margin: 12px;
+ }
+ 
+ .vagas__categoria {
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--cinza-secundario);
+    padding: 20px 0;
+    position: relative;
+    width: 720px;
+  
+ }
+ 
+ .vagas__titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza-secundario);
+    padding: 10px;
+    display: block;
+ }
+ 
+ .vagas__informacoes {
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cinza-principal);
+    padding: 25px 0 10px;
+ }

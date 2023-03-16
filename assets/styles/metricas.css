@@ -1,0 +1,29 @@
+.metricas__container {
+    display: flex;
+    flex-direction: row;
+}
+
+.metricas {
+    padding: 32px;
+    margin: 0 20px;
+}
+
+.container__numero {
+    font-size: 50px;
+    font-weight: 600;
+    color: var(--vermelho);
+    padding: 10px;
+}
+
+.container__h2 {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza-secundario);
+    padding: 5px;
+}
+
+.container__texto {
+    font-size: 16px;
+    color: var(--cinza-principal);
+    padding: 5px;
+}

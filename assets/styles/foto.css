@@ -1,0 +1,27 @@
+.foto__container {
+    padding: 3em;
+    text-align: center;
+}
+
+.foto__vagas {
+    background-color: var(--rosa);
+    color: var(--vermelho);
+    border-radius: 16px;
+    padding: 5px 10px;
+}
+
+.foto__titulo {
+    font-size: 36px;
+    font-weight: 600;
+    color: var(--cinza-secundario);
+    padding: 15px;
+}
+
+.foto__texto {
+    color: var(--cinza-principal);
+    padding: 10px 0 64px;
+}
+
+.foto__equipe {
+    width: 96%
+}

@@ -1,0 +1,55 @@
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container__logo {
+    padding: 0 0.5em 0 5em;
+}
+
+.descricao__logo {
+    padding: 0 4em 0 0;
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza-secundario);
+}
+
+.lista__menu {
+    display: flex;
+    padding: 2em 4em;
+}
+
+.opcoes__item {
+    padding: 1em;
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--cinza-principal);
+}
+
+.container__link {
+    display: flex;
+    margin: 1em;
+    text-decoration: none;
+    color: var(--cinza-principal);
+}
+
+.container__texto {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.container__botao {
+    border-radius: 8px;
+    border: none;
+    background-color: var(--vermelho);
+    color: var(--branco);
+    padding: 8px;
+    margin-right: 6rem;
+}
+
